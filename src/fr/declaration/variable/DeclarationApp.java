@@ -11,6 +11,9 @@ public class DeclarationApp {
         char g = 'a';
         boolean i = true;
         String h = "Bonjour";
+
+        System.out.println(b);
+
         String randomString = "Voici le résultat d’un calcul : \n1+5=6";
 
         System.out.println(randomString);
